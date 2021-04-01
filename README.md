@@ -40,7 +40,12 @@
 
 ---
 
-<img align="left" alt="princejoogie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=princejoogie&show_icons=true&count_private=true&hide=prs&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats" />
+<img align="left" alt="princejoogie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=princejoogie&show_icons=true&count_private=true&hide=prs&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats&theme=dark" />
+
+<br />
+<br />
+
+<img align="left" alt="princejoogie's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejoogie&layout=compact&theme=dark&hide_border=true" />
 
 [twitter]: https://twitter.com/princecaarlo
 [youtube]: https://www.youtube.com/channel/UCAYlSiZecXQhbuzzMFZ7ekQ
