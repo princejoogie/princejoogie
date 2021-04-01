@@ -1,23 +1,27 @@
 ### Hi there, I'm Prince Carlo Juguilon - aka [hiwam0](https://github.com/princejoogie) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=princecaarlo)
-
-## I'm a Student, Musician, Developer, and a Hardware Enthusiast!!
+## I'm a Student, Musician, Developer, and a Hardware Enthusiast!
 
 - 🔭 I just launched my URL Shortener [Joog!](https://joog.uno)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Transfer Learning in Python 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar / drums
 
 ### Connect with me:
 
-[<img align="left" alt="princejoogie | YouTube" width="22px" src="./assets/youtube.svg" />][youtube]
-[<img align="left" alt="princejoogie | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
-[<img align="left" alt="princejoogie | Instagram" width="22px" src="./assets/instagram.svg" />][instagram]
+<div>
+    <a href="https://www.instagram.com/princecaarlo/"> 
+        <img align="left" alt="princejoogie | Twitter" height="30px" src="./assets/instagram.svg" />
+    </a>
+    <p>&nbsp;</p>
+    <a href="https://www.twitter.com/princecaarlo/"> 
+        <img align="left" alt="princejoogie | Twitter" height="30px" src="./assets/twitter.svg" />
+    </a>
+</div>
 
 <br />
+<br />
 
-### Languages and Tools:
+### Main Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
@@ -25,10 +29,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](#)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](#)
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](#)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](#)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](#)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
