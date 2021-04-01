@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="princejoogie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="princejoogie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="princejoogie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="princejoogie | YouTube" width="22px" src="./assets/youtube.svg" />][youtube]
+[<img align="left" alt="princejoogie | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
+[<img align="left" alt="princejoogie | Instagram" width="22px" src="./assets/instagram.svg" />][instagram]
 
 <br />
 
