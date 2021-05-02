@@ -2,6 +2,7 @@
 
 ## I'm a Student, Musician, Developer, and a Hardware Enthusiast!
 
+- 📝 Get to know me with my [Portfolio](https://princecaarlo.tech/)
 - 📎 I just launched my URL Shortener [Joog!](https://joog.uno)
 - 🐍 I’m currently learning Transfer Learning in Python
 - 🥅 2021 Goals: Contribute more to Open Source projects
