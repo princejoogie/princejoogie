@@ -1,6 +1,4 @@
-# Hi there, I'm Prince Carlo Juguilon 👋
-
-## I'm a Student, Musician, Developer, and a Hardware Enthusiast!
+## Hi, I'm a Student, Musician, Developer, and a Hardware Enthusiast!
 
 - 📝 Get to know me with my [Portfolio](https://princecaarlo.tech/)
 - 📎 I just launched my URL Shortener [Joog!](https://joog.uno)
