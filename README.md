@@ -1,11 +1,11 @@
-## Hi, I'm a Student, Musician, Developer, and a Hardware Enthusiast!
+### Hi, I'm a Student, Musician, Developer, and a Hardware Enthusiast!
 
 - 📝 Get to know me with my <a href="https://princecaarlo.tech/" target="_blank">Portfolio</a>
 - 📎 I just launched my URL Shortener <a href="https://joog.uno">Joog!</a>
 - 🐍 I’m currently learning Transfer Learning in Python
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### **Connect with me:**
+#### **Connect with me:**
 
 [<img alt="princejoogie | Instagram" height="30px" src="./assets/instagram.svg" />][instagram]
 <br />
