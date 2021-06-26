@@ -1,4 +1,7 @@
-### Hi, I'm a Student, Musician, Developer, and a Hardware Enthusiast!
+<div align="center">
+   <h2>Hi, I'm a Student, Musician, Developer, and a Hardware Enthusiast!</h2>
+</div>
+
 
 - 📝 Get to know me with my <a href="https://princecaarlo.tech/" target="_blank">Portfolio</a>
 - 📎 I just launched my URL Shortener <a href="https://joog.uno">Joog!</a>
