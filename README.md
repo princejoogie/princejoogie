@@ -15,8 +15,8 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=princejoogie&show_icons=true&count_private=true&hide=prs&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejoogie&layout=compact&theme=onedark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=princejoogie&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejoogie&layout=compact&theme=onedark&hide_border=true&hide=java,dart" />
 
 [twitter]: https://twitter.com/princecaarlo
 [youtube]: https://www.youtube.com/channel/UCAYlSiZecXQhbuzzMFZ7ekQ
