@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejoogie&layout=compact&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejoogie&layout=compact&theme=onedark&hide_border=true&hide=java,dart,javascript,php,html,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </div>
 
 [twitter]: https://twitter.com/princecaarlo
